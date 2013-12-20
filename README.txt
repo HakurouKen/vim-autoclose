@@ -17,4 +17,7 @@ character on any part of your code  that should not have a pair completion, it
 will not insert the closing character for you.
 
     The AutoClose plugin is an attempt to reproduce this behavior for Vim.
+    
+
+    *This version is only use for html because the '<' is made pair with '>'
 
